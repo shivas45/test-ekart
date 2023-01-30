@@ -1,0 +1,27 @@
+.card {
+    
+    margin: 1rem;
+    border-radius: 1rem;
+    max-width:1200px;
+    width: 90%;
+    background-color:white;
+    color: black;
+    
+}
+
+.pWrapper{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.price{
+    color: red;
+}
+.btn{
+    margin-left: 75%;
+    border: none;
+    color: purple;
+    background-color: white;
+    text-decoration: bold;
+}

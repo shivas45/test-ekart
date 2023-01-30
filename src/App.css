@@ -1,0 +1,10 @@
+.wrapper {
+    display:flex;
+    flex: 1 1 auto;
+    background: rgb(219, 216, 216);
+}
+.image{
+    width: 100%;
+    height: 70%;
+    border-radius: 1rem;
+}
